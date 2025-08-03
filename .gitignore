@@ -1,0 +1,57 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+.pub/
+generated_plugin_registrant.dart
+
+# Obsolete
+*.lock
+
+# IntelliJ related
+.idea/
+*.iml
+
+# VS Code related
+.vscode/
+
+# MacOS/Windows/Linux
+.DS_Store
+Thumbs.db
+
+# Android/Gradle
+android/.gradle/
+android/app/build/
+*.jks
+*.keystore
+
+# iOS/Xcode
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/DerivedData/
+ios/.flutter-plugins
+ios/.flutter-plugins-dependencies
+
+# Web
+web/.dart_tool/
+web/.idea/
+web/.packages
+
+# Tests
+coverage/
+
+# Environment / config
+.env
+.env.*
+
+# Others
+*.log
+*.tmp
+*.swp
+*.swo
